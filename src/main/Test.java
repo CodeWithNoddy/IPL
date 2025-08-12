@@ -6,6 +6,7 @@ public class Test {
 	public static void main(String[] args) {
 		Teamservice service = new Teamservice();
 		service.printTeamDetails();
+		System.out.println("Test github");
 	}
 
 }
